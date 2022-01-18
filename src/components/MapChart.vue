@@ -80,8 +80,6 @@ export default {
       },
       scaleMin: 0,
       scaleMax: 0,
-      colorMin: this.mapChartConfiguration.data.colorMin,
-      colorMax: this.mapChartConfiguration.data.colorMax,
       units: [],
       chart: undefined,
       loading: true,
@@ -108,8 +106,7 @@ export default {
       type: Boolean,
       default: true
     },
-    minGeoLevel: String,
-    mapChartConfiguration: Object
+    minGeoLevel: String
   },
   computed: {
     selectedGeoLevel () {
@@ -211,7 +208,7 @@ export default {
       this.leftColProps.min = this.scaleMin
       this.leftColProps.max = this.scaleMax
 
-      const color = d3.scaleLinear().domain([this.scaleMin, this.scaleMax]).range([colorMin, colorMax])
+      const color = d3.scaleLinear().domain([this.scaleMin, this.scaleMax]).range(['#ffc700', '#715845'])
       const widget = document.getElementById(this.widgetId)
       const isRegion = self.definedMinGeoLevel === 'regions'
       const isRegionSelection = selectedLevel === 'regions'
