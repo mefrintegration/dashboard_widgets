@@ -735,5 +735,224 @@
                 ]
             }
         ]
+    },
+    {
+        "Lien_page_mesure": "https://www.economie.gouv.fr/plan-de-relance/profils/entreprises/aide-employeurs-embauche-travailleurs-handicapes",
+        "Titre_panneau": "Prime à l’embauche pour les travailleurs handicapés",
+        "Volet": "Cohésion",
+        "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
+        "onglets": [
+            {
+                "Carte": true,
+                "Graph": true,
+                "Bar": false,
+                "Box": false,
+                "Points": false,
+                "MinGeoLevel": "departements",
+                "Titre_onglet": "Prime à l’embauche",
+                "indicateurs": [
+                    {
+                        "Code_indicateur": "PTH1",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Nombre d’aides à l’embauche des travailleurs handicapés",
+                        "Unité_GP": "aides"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Titre_panneau": "Soutien petites lignes",
+        "Volet": "Ecologie",
+        "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
+        "onglets": [
+            {
+                "Carte": true,
+                "Graph": true,
+                "Bar": false,
+                "Box": false,
+                "Points": false,
+                "MinGeoLevel": "regions",
+                "Titre_onglet": "Kilomètres de lignes soutenus",
+                "indicateurs": [
+                    {
+                        "Code_indicateur": "SPL1",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Km de petites lignes dont les travaux sont soutenus",
+                        "Unité_GP": "km"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lien_page_mesure": "https://www.economie.gouv.fr/entreprises/assurance-prospection-international",
+        "Titre_panneau": "Assurance prospection",
+        "Volet": "Compétitivité",
+        "source": "Ministère de l’Economie, des Finances et de la Relance",
+        "onglets": [
+            {
+                "Carte": true,
+                "Graph": true,
+                "Bar": false,
+                "Box": false,
+                "Points": false,
+                "MinGeoLevel": "departements",
+                "Titre_onglet": "TPE/PME/ETI bénéficiaires",
+                "indicateurs": [
+                    {
+                        "Code_indicateur": "APR1",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Nombre de TPE/PME/ETI bénéficiaires",
+                        "Unité_GP": "entreprises"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lien_page_mesure": "https://www.economie.gouv.fr/plan-de-relance/profils/particuliers/financement-de-nouvelles-missions-de-service-civique",
+        "Titre_panneau": "Service civique",
+        "Volet": "Cohésion",
+        "source": "Ministère de l’Education nationale, jeunesse et sports",
+        "onglets": [
+            {
+                "Carte": true,
+                "Graph": true,
+                "Bar": false,
+                "Box": false,
+                "Points": false,
+                "MinGeoLevel": "departements",
+                "Titre_onglet": "Entrées en service civique",
+                "indicateurs": [
+                    {
+                        "Code_indicateur": "SCI1",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Nombre d’entrées en service civique",
+                        "Unité_GP": "entrées"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Titre_panneau": "Digitalisation de la formation",
+        "Volet": "Cohésion",
+        "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
+        "onglets": [
+            {
+                "Carte": true,
+                "Graph": true,
+                "Bar": false,
+                "Box": false,
+                "Points": false,
+                "MinGeoLevel": "regions",
+                "Titre_onglet": "Formations professionnelles",
+                "indicateurs": [
+                    {
+                        "Code_indicateur": "DFO1",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Nombre de formations professionnelles à distance",
+                        "Unité_GP": "formations"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Titre_panneau": "Soutien aux cantines scolaire",
+        "Volet": "Ecologie",
+        "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
+        "onglets": [
+            {
+                "Carte": true,
+                "Graph": true,
+                "Bar": false,
+                "Box": false,
+                "Points": false,
+                "MinGeoLevel": "departements",
+                "Titre_onglet": "Communes soutenues",
+                "indicateurs": [
+                    {
+                        "Code_indicateur": "TSA1",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Nombre de communes soutenues",
+                        "Unité_GP": "communes"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Titre_panneau": "Soutien au spectacle vivant",
+        "Volet": "Compétitivité",
+        "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
+        "onglets": [
+            {
+                "Carte": true,
+                "Graph": true,
+                "Bar": false,
+                "Box": false,
+                "Points": false,
+                "MinGeoLevel": "departements",
+                "Titre_onglet": "Structures du spectacle soutenues",
+                "indicateurs": [
+                    {
+                        "Code_indicateur": "SSV1",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Nombre de structures du spectacle vivant aidées",
+                        "Unité_GP": "structures"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Titre_panneau": "Soutien aux filières culturelles",
+        "Volet": "Compétitivité",
+        "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
+        "onglets": [
+            {
+                "Carte": true,
+                "Graph": true,
+                "Bar": false,
+                "Box": false,
+                "Points": false,
+                "MinGeoLevel": "departements",
+                "Titre_onglet": "Entreprises bénéficiaires",
+                "indicateurs": [
+                    {
+                        "Code_indicateur": "SFC1",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Nombre d'entreprises aidées dans les secteurs du cinéma, de l'audiovisuel, du numérique et du livre",
+                        "Unité_GP": "entreprises"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Titre_panneau": "Réhabilitation Friches",
+        "Volet": "Ecologie",
+        "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
+        "onglets": [
+            {
+                "Carte": true,
+                "Graph": true,
+                "Bar": false,
+                "Box": false,
+                "Points": false,
+                "MinGeoLevel": "departements",
+                "Titre_onglet": "Sites concernés",
+                "indicateurs": [
+                    {
+                        "Code_indicateur": "FFR1",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Nombre de sites concernés",
+                        "Unité_GP": "sites"
+                    }
+                ]
+            }
+        ]
     }
 ]
