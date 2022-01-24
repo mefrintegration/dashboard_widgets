@@ -954,5 +954,29 @@
                 ]
             }
         ]
+    },
+    {
+        "Titre_panneau": "Rénovation énergétique et réhabilitation lourde des logements sociaux",
+        "Volet": "Ecologie",
+        "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
+        "onglets": [
+            {
+                "Carte": true,
+                "Graph": true,
+                "Bar": false,
+                "Box": false,
+                "Points": false,
+                "MinGeoLevel": "departements",
+                "Titre_onglet": "Logements concernés",
+                "indicateurs": [
+                    {
+                        "Code_indicateur": "RER1",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Nombre de logements subventionnés",
+                        "Unité_GP": "sites"
+                    }
+                ]
+            }
+        ]
     }
 ]
