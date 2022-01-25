@@ -739,7 +739,7 @@
     {
         "Lien_page_mesure": "https://www.economie.gouv.fr/plan-de-relance/profils/entreprises/aide-employeurs-embauche-travailleurs-handicapes",
         "Titre_panneau": "Prime à l’embauche pour les travailleurs handicapés",
-        "Volet": "Cohésion",
+        "Volet": "Volet Cohésion",
         "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
         "onglets": [
             {
@@ -763,7 +763,7 @@
     },
     {
         "Titre_panneau": "Soutien petites lignes",
-        "Volet": "Ecologie",
+        "Volet": "Volet Écologie",
         "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
         "onglets": [
             {
@@ -788,7 +788,7 @@
     {
         "Lien_page_mesure": "https://www.economie.gouv.fr/entreprises/assurance-prospection-international",
         "Titre_panneau": "Assurance prospection",
-        "Volet": "Compétitivité",
+        "Volet": "Volet Compétitivité",
         "source": "Ministère de l’Economie, des Finances et de la Relance",
         "onglets": [
             {
@@ -813,7 +813,7 @@
     {
         "Lien_page_mesure": "https://www.economie.gouv.fr/plan-de-relance/profils/particuliers/financement-de-nouvelles-missions-de-service-civique",
         "Titre_panneau": "Service civique",
-        "Volet": "Cohésion",
+        "Volet": "Volet Cohésion",
         "source": "Ministère de l’Education nationale, jeunesse et sports",
         "onglets": [
             {
@@ -837,7 +837,7 @@
     },
     {
         "Titre_panneau": "Digitalisation de la formation",
-        "Volet": "Cohésion",
+        "Volet": "Volet Cohésion",
         "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
         "onglets": [
             {
@@ -861,7 +861,7 @@
     },
     {
         "Titre_panneau": "Soutien aux cantines scolaire",
-        "Volet": "Ecologie",
+        "Volet": "Volet Écologie",
         "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
         "onglets": [
             {
@@ -885,7 +885,7 @@
     },
     {
         "Titre_panneau": "Soutien au spectacle vivant",
-        "Volet": "Compétitivité",
+        "Volet": "Volet Compétitivité",
         "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
         "onglets": [
             {
@@ -909,7 +909,7 @@
     },
     {
         "Titre_panneau": "Soutien aux filières culturelles",
-        "Volet": "Compétitivité",
+        "Volet": "Volet Compétitivité",
         "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
         "onglets": [
             {
@@ -933,7 +933,7 @@
     },
     {
         "Titre_panneau": "Réhabilitation Friches",
-        "Volet": "Ecologie",
+        "Volet": "Volet Écologie",
         "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
         "onglets": [
             {
@@ -957,7 +957,7 @@
     },
     {
         "Titre_panneau": "Rénovation énergétique et réhabilitation lourde des logements sociaux",
-        "Volet": "Ecologie",
+        "Volet": "Volet Écologie",
         "source": "Ministère du Travail, de l’Emploi et de l’Insertion",
         "onglets": [
             {
