@@ -8,14 +8,16 @@
         "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
-                "Carte": false,
-                "Graph": false,
-                "Bar": false,
-                "Box": true,
+                "Carte": 1,
+                "Graph": 2,
+                "Bar": 3,
+                "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Indicateurs",
+                "Pie": 4,
+                "Table": 5,
                 "indicateurs": [
                     {
                         "Code_indicateur": "NBINF",
@@ -72,14 +74,16 @@
         "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
-                "Carte": true,
-                "Graph": true,
-                "Bar": false,
+                "Carte": 1,
+                "Graph": 2,
+                "Bar": 3,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Départements",
+                "Pie": 4,
+                "Table": 5,
                 "indicateurs": [
                     {
                         "Code_indicateur": "CARTODC",
@@ -91,14 +95,16 @@
                 ]
             },
             {
-                "Carte": true,
-                "Graph": true,
+                "Carte": 1,
+                "Graph": 1,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "regions",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Régions",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "CARTODO",
@@ -120,14 +126,16 @@
         "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
-                "Carte": false,
-                "Graph": true,
-                "Bar": false,
+                "Carte": 1,
+                "Graph": 2,
+                "Bar": 3,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Vue annuelle",
+                "Pie": 4,
+                "Table": 5,
                 "indicateurs": [
                     {
                         "Code_indicateur": "Favoritisme",
@@ -150,13 +158,15 @@
         "onglets": [
             {
                 "Carte": false,
-                "Graph": true,
+                "Graph": 1,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Vue annuelle",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "PII",
@@ -179,13 +189,15 @@
         "onglets": [
             {
                 "Carte": false,
-                "Graph": true,
+                "Graph": 1,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Vue annuelle",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "DFP",
@@ -208,13 +220,15 @@
         "onglets": [
             {
                 "Carte": false,
-                "Graph": true,
+                "Graph": 1,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Vue annuelle",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "Concussion",
@@ -237,13 +251,15 @@
         "onglets": [
             {
                 "Carte": false,
-                "Graph": true,
+                "Graph": 1,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Corruption active",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "Corruption active",
@@ -256,13 +272,15 @@
             },
             {
                 "Carte": false,
-                "Graph": true,
+                "Graph": 1,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Corruption passive",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "Corruption passive",
@@ -285,13 +303,15 @@
         "onglets": [
             {
                 "Carte": false,
-                "Graph": true,
+                "Graph": 1,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Trafic d'Influence passif",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "de 40 à 49 ans",
@@ -304,13 +324,15 @@
             },
             {
                 "Carte": false,
-                "Graph": true,
+                "Graph": 1,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Trafic d'Influence actif",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "fde 40 à 49 ans",
@@ -333,13 +355,15 @@
         "onglets": [
             {
                 "Carte": false,
-                "Graph": true,
+                "Graph": 1,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Police",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "CARTODO",
@@ -352,13 +376,15 @@
             },
             {
                 "Carte": false,
-                "Graph": true,
+                "Graph": 1,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Gendarmerie",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "CARTODC",
@@ -381,13 +407,15 @@
         "onglets": [
             {
                 "Carte": false,
-                "Graph": true,
+                "Graph": 1,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Métropole",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "TI passif",
@@ -400,13 +428,15 @@
             },
             {
                 "Carte": false,
-                "Graph": true,
+                "Graph": 1,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Outre-mer",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "Concussion",
@@ -429,13 +459,15 @@
         "onglets": [
             {
                 "Carte": false,
-                "Graph": true,
+                "Graph": 1,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Hommes",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "H",
@@ -448,13 +480,15 @@
             },
             {
                 "Carte": false,
-                "Graph": true,
+                "Graph": 1,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Femmes",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "F",
@@ -468,12 +502,14 @@
             {
                 "Carte": false,
                 "Graph": false,
-                "Bar": true,
+                "Bar": 1,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Proportions",
+                "Pie": false,
+                "Table": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "de 40 à 49 ans",
