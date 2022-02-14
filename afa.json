@@ -18,6 +18,7 @@
                 "Titre_onglet": "Indicateurs",
                 "Pie": 4,
                 "Table": 5,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "NBINF",
@@ -84,6 +85,7 @@
                 "Titre_onglet": "Départements",
                 "Pie": 4,
                 "Table": 5,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "CARTODC",
@@ -105,6 +107,7 @@
                 "Titre_onglet": "Régions",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "CARTODO",
@@ -136,6 +139,7 @@
                 "Titre_onglet": "Vue annuelle",
                 "Pie": 4,
                 "Table": 5,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "Favoritisme",
@@ -167,6 +171,7 @@
                 "Titre_onglet": "Vue annuelle",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "PII",
@@ -198,6 +203,7 @@
                 "Titre_onglet": "Vue annuelle",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "DFP",
@@ -229,6 +235,7 @@
                 "Titre_onglet": "Vue annuelle",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "Concussion",
@@ -260,6 +267,7 @@
                 "Titre_onglet": "Corruption active",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "Corruption active",
@@ -281,6 +289,7 @@
                 "Titre_onglet": "Corruption passive",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "Corruption passive",
@@ -312,6 +321,7 @@
                 "Titre_onglet": "Trafic d'Influence passif",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "de 40 à 49 ans",
@@ -333,6 +343,7 @@
                 "Titre_onglet": "Trafic d'Influence actif",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "fde 40 à 49 ans",
@@ -364,6 +375,7 @@
                 "Titre_onglet": "Police",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "CARTODO",
@@ -385,6 +397,7 @@
                 "Titre_onglet": "Gendarmerie",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "CARTODC",
@@ -416,6 +429,7 @@
                 "Titre_onglet": "Métropole",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "TI passif",
@@ -437,6 +451,7 @@
                 "Titre_onglet": "Outre-mer",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "Concussion",
@@ -468,6 +483,7 @@
                 "Titre_onglet": "Hommes",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "H",
@@ -489,6 +505,7 @@
                 "Titre_onglet": "Femmes",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "F",
@@ -510,6 +527,7 @@
                 "Titre_onglet": "Proportions",
                 "Pie": false,
                 "Table": false,
+                "Info": false,
                 "indicateurs": [
                     {
                         "Code_indicateur": "de 40 à 49 ans",
