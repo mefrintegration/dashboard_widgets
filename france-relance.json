@@ -10,6 +10,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -28,6 +29,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -55,6 +57,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -73,6 +76,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -100,6 +104,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -118,6 +123,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -145,6 +151,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -163,6 +170,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -190,6 +198,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -218,6 +227,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -236,6 +246,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -263,6 +274,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -281,6 +293,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -308,6 +321,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -326,6 +340,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -353,6 +368,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -371,6 +387,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -398,6 +415,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -416,6 +434,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -443,6 +462,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -471,6 +491,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -489,6 +510,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -516,6 +538,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -544,6 +567,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -572,6 +596,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -590,6 +615,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -617,6 +643,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -635,6 +662,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -652,6 +680,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -679,6 +708,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -703,6 +733,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -720,6 +751,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -745,6 +777,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -769,6 +802,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -794,6 +828,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -801,7 +836,7 @@
                 "Titre_onglet": "TPE/PME/ETI bénéficiaires",
                 "indicateurs": [
                     {
-                        "Code_indicateur": "APR1",
+                        "Code_indicateur": "1-Apr",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Nombre de TPE/PME/ETI bénéficiaires",
                         "Unité_GP": "entreprises"
@@ -819,6 +854,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -843,6 +879,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -867,6 +904,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -891,6 +929,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -915,6 +954,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -939,6 +979,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -963,6 +1004,7 @@
             {
                 "Carte": true,
                 "Graph": true,
+                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,

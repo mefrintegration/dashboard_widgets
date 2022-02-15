@@ -10,6 +10,7 @@
             {
                 "Carte": 1,
                 "Graph": 2,
+                "Graph_avec_valeurs": true,
                 "Bar": 3,
                 "Box": false,
                 "Points": false,
@@ -77,6 +78,7 @@
             {
                 "Carte": 1,
                 "Graph": 2,
+                "Graph_avec_valeurs": true,
                 "Bar": 3,
                 "Box": false,
                 "Points": false,
@@ -99,6 +101,7 @@
             {
                 "Carte": 1,
                 "Graph": 1,
+                "Graph_avec_valeurs": true,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -131,6 +134,7 @@
             {
                 "Carte": 1,
                 "Graph": 2,
+                "Graph_avec_valeurs": true,
                 "Bar": 3,
                 "Box": false,
                 "Points": false,
@@ -143,6 +147,7 @@
                 "indicateurs": [
                     {
                         "Code_indicateur": "Favoritisme",
+                        "Nom_indicateur": "Test",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Favoritisme",
                         "Unité_GP": "Infractions en 2020",
@@ -163,6 +168,7 @@
             {
                 "Carte": false,
                 "Graph": 1,
+                "Graph_avec_valeurs": true,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -195,6 +201,7 @@
             {
                 "Carte": false,
                 "Graph": 1,
+                "Graph_avec_valeurs": true,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -227,6 +234,7 @@
             {
                 "Carte": false,
                 "Graph": 1,
+                "Graph_avec_valeurs": true,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -259,6 +267,7 @@
             {
                 "Carte": false,
                 "Graph": 1,
+                "Graph_avec_valeurs": true,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -281,6 +290,7 @@
             {
                 "Carte": false,
                 "Graph": 1,
+                "Graph_avec_valeurs": true,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -313,6 +323,7 @@
             {
                 "Carte": false,
                 "Graph": 1,
+                "Graph_avec_valeurs": true,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -335,6 +346,7 @@
             {
                 "Carte": false,
                 "Graph": 1,
+                "Graph_avec_valeurs": true,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -367,6 +379,7 @@
             {
                 "Carte": false,
                 "Graph": 1,
+                "Graph_avec_valeurs": true,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -389,6 +402,7 @@
             {
                 "Carte": false,
                 "Graph": 1,
+                "Graph_avec_valeurs": true,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -421,6 +435,7 @@
             {
                 "Carte": false,
                 "Graph": 1,
+                "Graph_avec_valeurs": true,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -443,6 +458,7 @@
             {
                 "Carte": false,
                 "Graph": 1,
+                "Graph_avec_valeurs": true,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -475,6 +491,7 @@
             {
                 "Carte": false,
                 "Graph": 1,
+                "Graph_avec_valeurs": true,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -497,6 +514,7 @@
             {
                 "Carte": false,
                 "Graph": 1,
+                "Graph_avec_valeurs": true,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -519,6 +537,7 @@
             {
                 "Carte": false,
                 "Graph": false,
+                "Graph_avec_valeurs": true,
                 "Bar": 1,
                 "Box": false,
                 "Points": false,
