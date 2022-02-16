@@ -16,7 +16,7 @@
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
-                "Titre_onglet": "personnes physiques / personnes morales",
+                "Titre_onglet": "Pourcentage",
                 "Pie": 1,
                 "Table": false,
                 "Info": false,
@@ -25,7 +25,7 @@
                 "indicateurs": [
                     {
                         "Code_indicateur": "ANALYSE_PAR_TYPE_CORRUPTION",
-                        "Nom_indicateur": "Test",
+                        "Nom_indicateur": "CORRUPTION",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
                         "Unité_GP": "Infractions en 2020",
@@ -33,7 +33,7 @@
                     },
                     {
                         "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
-                        "Nom_indicateur": "Test",
+                        "Nom_indicateur": "FAVORITISME",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
                         "Unité_GP": "Infractions en 2020",
@@ -41,7 +41,7 @@
                     },
                     {
                         "Code_indicateur": "ANALYSE_PAR_TYPE_TRAFIC D’INFLUENCE",
-                        "Nom_indicateur": "Test",
+                        "Nom_indicateur": "TRAFIC D’INFLUENCE",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
                         "Unité_GP": "Infractions en 2020",
@@ -49,23 +49,7 @@
                     },
                     {
                         "Code_indicateur": "ANALYSE_PAR_TYPE_DETOURNEMENT DE FONDS",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
-                        "Nom_indicateur": "Test",
+                        "Nom_indicateur": "DETOURNEMENT DE FONDS",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
                         "Unité_GP": "Infractions en 2020",
@@ -88,12 +72,12 @@
                 "Graph": false,
                 "Graph_avec_valeurs": false,
                 "Bar": false,
-                "Box": 1,
+                "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Pourcentage",
-                "Pie": false,
+                "Pie": 1,
                 "Table": false,
                 "Info": false,
                 "InfoTitle": "c",
@@ -101,7 +85,7 @@
                 "indicateurs": [
                     {
                         "Code_indicateur": "PART_PERS_PUB_PREV",
-                        "Nom_indicateur": "Test",
+                        "Nom_indicateur": "PUBLIC",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Favoritisme",
                         "Unité_GP": "Infractions en 2020",
@@ -109,7 +93,7 @@
                     },
                     {
                         "Code_indicateur": "PART_PERS_PRIVE_PREV",
-                        "Nom_indicateur": "Test",
+                        "Nom_indicateur": "PRIVE",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Favoritisme",
                         "Unité_GP": "Infractions en 2020",
@@ -122,12 +106,12 @@
                 "Graph": false,
                 "Graph_avec_valeurs": false,
                 "Bar": false,
-                "Box": 1,
+                "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Chiffres bruts",
-                "Pie": false,
+                "Pie": 1,
                 "Table": false,
                 "Info": false,
                 "InfoTitle": "c",
@@ -135,7 +119,7 @@
                 "indicateurs": [
                     {
                         "Code_indicateur": "BRUT_PERS_PUB_PREV",
-                        "Nom_indicateur": "Test",
+                        "Nom_indicateur": "PUBLIC",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "PII",
                         "Unité_GP": "Infractions en 2020",
@@ -143,7 +127,7 @@
                     },
                     {
                         "Code_indicateur": "BRUT_PERS_PRIVE_PREV",
-                        "Nom_indicateur": "Test",
+                        "Nom_indicateur": "PRIVE",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "PII",
                         "Unité_GP": "Infractions en 2020",
@@ -162,7 +146,7 @@
         "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
-                "Carte": 1,
+                "Carte": false,
                 "Graph": false,
                 "Graph_avec_valeurs": false,
                 "Bar": false,
@@ -178,40 +162,32 @@
                 "InfoContent": "c",
                 "indicateurs": [
                     {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_DETOURNEMENT DE FONDS",
-                        "Nom_indicateur": "Test",
+                        "Code_indicateur": "MISE_EN_CAUSE_POUR_DETOURNEMENT DE FONDS",
+                        "Nom_indicateur": "DETOURNEMENT",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "DFP",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_CORRUPTION",
-                        "Nom_indicateur": "Test",
+                        "Code_indicateur": "MISE_EN_CAUSE_POUR_TRAFIC D'INFLUENCE",
+                        "Nom_indicateur": "TRAFIC D'INFLUENCE",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "DFP",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_PRISE ILLEGALE D'INTERETS",
-                        "Nom_indicateur": "Test",
+                        "Code_indicateur": "MISE_EN_CAUSE_POUR_FAVORITISME",
+                        "Nom_indicateur": "FAVORITISME",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "DFP",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_TRAFIC D’INFLUENCE",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "DFP",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
-                        "Nom_indicateur": "Test",
+                        "Code_indicateur": "MISE_EN_CAUSE_POUR_CORRUPTION",
+                        "Nom_indicateur": "CORRUPTION",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "DFP",
                         "Unité_GP": "Infractions en 2020",
@@ -296,31 +272,31 @@
                         "Unité_Evol": "%"
                     },
                     {
+                        "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
+                        "Nom_indicateur": "Test",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Corruption active",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
+                        "Nom_indicateur": "Test",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Corruption active",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
+                        "Nom_indicateur": "Test",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Corruption active",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
                         "Code_indicateur": "ANALYSE_PAR_TYPE_CORRUPTION",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
                         "Nom_indicateur": "Test",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
@@ -342,11 +318,11 @@
                 "Pie": 1,
                 "Table": false,
                 "Info": 3,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "InfoTitle": "jellsf",
+                "InfoContent": "qosfjhsq",
                 "indicateurs": [
                     {
-                        "Code_indicateur": "PART_FEMMES_PREV",
+                        "Code_indicateur": "PART_HOMMES_PREV",
                         "Nom_indicateur": "Test",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
@@ -354,7 +330,7 @@
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "PART_HOMMES_PREV",
+                        "Code_indicateur": "PART_FEMMES_PREV",
                         "Nom_indicateur": "Test",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
@@ -380,31 +356,7 @@
                 "InfoContent": "c",
                 "indicateurs": [
                     {
-                        "Code_indicateur": "PERSONNE MORALE DE DROIT PRIVE",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "DIRIGEANTS DE SOCIETE",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
                         "Code_indicateur": "AGENTS PUBLICS",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "PARTICULIERS",
                         "Nom_indicateur": "Test",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
@@ -420,7 +372,7 @@
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "EMPLOYES",
+                        "Code_indicateur": "PERSONNE MORALE DE DROIT PRIVE",
                         "Nom_indicateur": "Test",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
@@ -429,6 +381,30 @@
                     },
                     {
                         "Code_indicateur": "CHEF D'ENTREPRISE AVEC SERVICE PUBLIC",
+                        "Nom_indicateur": "Test",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Corruption active",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "PARTICULIERS",
+                        "Nom_indicateur": "Test",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Corruption active",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "EMPLOYES",
+                        "Nom_indicateur": "Test",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Corruption active",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "DIRIGEANTS DE SOCIETE",
                         "Nom_indicateur": "Test",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
@@ -814,7 +790,7 @@
                 "InfoContent": "c",
                 "indicateurs": [
                     {
-                        "Code_indicateur": "H",
+                        "Code_indicateur": "F",
                         "Nom_indicateur": "Test",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "d’âge moyen des prévenus",
@@ -822,7 +798,7 @@
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "F",
+                        "Code_indicateur": "H",
                         "Nom_indicateur": "Test",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "d’âge moyen des prévenus",
