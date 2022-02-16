@@ -1110,7 +1110,7 @@
                     },
                     {
                         "Code_indicateur": "NR",
-                        "Nom_indicateur": "NON RENSEIGNÉ",
+                        "Nom_indicateur": "HOMME",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
                         "Unité_GP": "Infractions en 2020",
@@ -1118,7 +1118,7 @@
                     },
                     {
                         "Code_indicateur": "H",
-                        "Nom_indicateur": "HOMME",
+                        "Nom_indicateur": "NON RENSEIGNÉ",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
                         "Unité_GP": "Infractions en 2020",
