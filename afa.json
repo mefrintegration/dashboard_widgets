@@ -162,16 +162,8 @@
                 "InfoContent": "c",
                 "indicateurs": [
                     {
-                        "Code_indicateur": "MISE_EN_CAUSE_POUR_DETOURNEMENT DE FONDS",
+                        "Code_indicateur": "ANALYSE_PAR_TYPE_DETOURNEMENT DE FONDS",
                         "Nom_indicateur": "DETOURNEMENT",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "DFP",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "MISE_EN_CAUSE_POUR_TRAFIC D'INFLUENCE",
-                        "Nom_indicateur": "TRAFIC D'INFLUENCE",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "DFP",
                         "Unité_GP": "Infractions en 2020",
@@ -188,6 +180,14 @@
                     {
                         "Code_indicateur": "MISE_EN_CAUSE_POUR_CORRUPTION",
                         "Nom_indicateur": "CORRUPTION",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "DFP",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "ANALYSE_PAR_TYPE_TRAFIC D'INFLUENCE",
+                        "Nom_indicateur": "TRAFIC D'INFLUENCE",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "DFP",
                         "Unité_GP": "Infractions en 2020",
@@ -256,48 +256,16 @@
                 "InfoContent": "c",
                 "indicateurs": [
                     {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
-                        "Nom_indicateur": "Test",
+                        "Code_indicateur": "PART_PERS_PHYS_PREV",
+                        "Nom_indicateur": "PERSONNE PHYSIQUE",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "ANALYSE_PAR_TYPE_CORRUPTION",
-                        "Nom_indicateur": "Test",
+                        "Code_indicateur": "PART_PERS_MOR_PREV",
+                        "Nom_indicateur": "PERSONNE MORALE",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
                         "Unité_GP": "Infractions en 2020",
@@ -306,7 +274,7 @@
                 ]
             },
             {
-                "Carte": 1,
+                "Carte": false,
                 "Graph": false,
                 "Graph_avec_valeurs": false,
                 "Bar": false,
@@ -317,13 +285,13 @@
                 "Titre_onglet": "Homme /femme",
                 "Pie": 1,
                 "Table": false,
-                "Info": 3,
+                "Info": false,
                 "InfoTitle": "jellsf",
                 "InfoContent": "qosfjhsq",
                 "indicateurs": [
                     {
                         "Code_indicateur": "PART_HOMMES_PREV",
-                        "Nom_indicateur": "Test",
+                        "Nom_indicateur": "HOMME",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
                         "Unité_GP": "Infractions en 2020",
@@ -331,7 +299,7 @@
                     },
                     {
                         "Code_indicateur": "PART_FEMMES_PREV",
-                        "Nom_indicateur": "Test",
+                        "Nom_indicateur": "FEMME",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
                         "Unité_GP": "Infractions en 2020",
@@ -341,7 +309,7 @@
             },
             {
                 "Carte": false,
-                "Graph": 1,
+                "Graph": false,
                 "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
@@ -349,30 +317,14 @@
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Qualité des prévenus ",
-                "Pie": false,
+                "Pie": 1,
                 "Table": false,
                 "Info": false,
                 "InfoTitle": "c",
                 "InfoContent": "c",
                 "indicateurs": [
                     {
-                        "Code_indicateur": "AGENTS PUBLICS",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "ELUS",
-                        "Nom_indicateur": "Test",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "PERSONNE MORALE DE DROIT PRIVE",
+                        "Code_indicateur": "EMPLOYES",
                         "Nom_indicateur": "Test",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
@@ -388,6 +340,14 @@
                         "Unité_Evol": "%"
                     },
                     {
+                        "Code_indicateur": "DIRIGEANTS DE SOCIETE",
+                        "Nom_indicateur": "Test",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Corruption active",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
                         "Code_indicateur": "PARTICULIERS",
                         "Nom_indicateur": "Test",
                         "Indicateur_principal": "1",
@@ -396,7 +356,7 @@
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "EMPLOYES",
+                        "Code_indicateur": "PERSONNE MORALE DE DROIT PRIVE",
                         "Nom_indicateur": "Test",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
@@ -404,7 +364,15 @@
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "DIRIGEANTS DE SOCIETE",
+                        "Code_indicateur": "AGENTS PUBLICS",
+                        "Nom_indicateur": "Test",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Corruption active",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "ELUS",
                         "Nom_indicateur": "Test",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "Corruption active",
