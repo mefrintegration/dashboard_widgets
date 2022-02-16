@@ -898,11 +898,11 @@
                     },
                     {
                         "Code_indicateur": "Favoritisme",
-                        "Nom_indicateur": "https://www.agence-francaise-anticorruption.gouv.fr/fr  ",
+                        "Nom_indicateur": "FAVORITISME",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "FAVORITISME",
-                        "Unité_GP": "%",
-                        "Unité_Evol": "SSMSI, base des infractions enregistrées par la police et la gendarmerie (extraite le 10 février 2021) et population légale par commune de l’INSEE (2017) "
+                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
                     },
                     {
                         "Code_indicateur": "Corruption active",
