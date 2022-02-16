@@ -752,10 +752,10 @@
         "onglets": [
             {
                 "Carte": false,
-                "Graph": 1,
+                "Graph": false,
                 "Graph_avec_valeurs": false,
                 "Bar": false,
-                "Box": false,
+                "Box": 1,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
