@@ -18,10 +18,12 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Pourcentage",
                 "Pie": 1,
+                "Pie_titre": "This is a title",
+                "Pie_legende": true,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "ANALYSE_PAR_TYPE_CORRUPTION",
@@ -78,10 +80,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Pourcentage",
                 "Pie": 1,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "PART_PERS_PRIVE_PREV",
@@ -122,10 +125,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Répartition des mis en cause par famile d'infractions",
                 "Pie": 1,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "MISE_EN_CAUSE_POUR_FAVORITISME",
@@ -172,10 +176,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Indicateurs",
                 "Pie": false,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "NOMBRE_MOY_PREV",
@@ -224,10 +229,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Personnes physiques / personnes morales",
                 "Pie": 1,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "PART_PERS_PHYS_PREV",
@@ -258,10 +264,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Homme /femme",
                 "Pie": 1,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "jellsf",
-                "InfoContent": "qosfjhsq",
+                "Info_titre": "jellsf",
+                "Info_contenu": "qosfjhsq",
                 "indicateurs": [
                     {
                         "Code_indicateur": "PART_HOMMES_PREV",
@@ -292,10 +299,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Qualité des prévenus ",
                 "Pie": 1,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "PARTICULIERS",
@@ -342,10 +350,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Catégorie socio-professionnelle",
                 "Pie": 1,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "AUTRE_CATEGORIE",
@@ -402,10 +411,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Origine de l’affaire",
                 "Pie": 1,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "LETTRE ANONYME",
@@ -460,10 +470,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Mode de poursuite le plus souvent retenu",
                 "Pie": 1,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "ORTC / information judiciaire",
@@ -528,10 +539,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Indicateurs",
                 "Pie": false,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "MOY_DUREE_PREVENTION",
@@ -571,10 +583,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Sens de la décision",
                 "Pie": 1,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "Extinction action publique",
@@ -621,10 +634,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Type de peine prononcée",
                 "Pie": 1,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "PART_AMENDE_PREVENUE",
@@ -681,10 +695,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Indicateurs personne physique",
                 "Pie": false,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "PX_MANDAT_OUI",
@@ -715,10 +730,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Indicateurs amende",
                 "Pie": false,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "MOY_AMENDE",
@@ -741,10 +757,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Indicateurs taux d'appel",
                 "Pie": false,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "TAUX_APPEL_TOT",
@@ -785,10 +802,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Chiffres bruts",
                 "Pie": false,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "NB_INF_PROB",
@@ -821,10 +839,12 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Pourcentage",
                 "Pie": false,
+                "Pie_legende": false,
                 "Table": 2,
+                "Table_titre": "This is a table title",
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "NB_INF_PROB",
@@ -857,10 +877,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Répartition & évolution de chaque famille d'infraction",
                 "Pie": 1,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "c",
-                "InfoContent": "c",
+                "Info_titre": "c",
+                "Info_contenu": "c",
                 "indicateurs": [
                     {
                         "Code_indicateur": "PII",
@@ -949,10 +970,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Personne morale",
                 "Pie": false,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": 1,
-                "InfoTitle": "Les familles d’infractions ayant permis le plus facilement la mise en cause d’une personne morale sont : le favoritisme, la prise illégale d’intérêts et la corruption active. ",
-                "InfoContent": " ",
+                "Info_titre": "Les familles d’infractions ayant permis le plus facilement la mise en cause d’une personne morale sont : le favoritisme, la prise illégale d’intérêts et la corruption active. ",
+                "Info_contenu": " ",
                 "indicateurs": [
                     {
                         "Code_indicateur": "PART_INF_PROB_HAB",
@@ -975,10 +997,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Personne physique",
                 "Pie": false,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": 1,
-                "InfoTitle": "Les familles d’infractions ayant permis le plus facilement la mise en cause d’une personne physique sont : la prise illégale d’intérêts, le détournem",
-                "InfoContent": " ",
+                "Info_titre": "Les familles d’infractions ayant permis le plus facilement la mise en cause d’une personne physique sont : la prise illégale d’intérêts, le détournem",
+                "Info_contenu": " ",
                 "indicateurs": [
                     {
                         "Code_indicateur": "PART_INF_PROB_HAB",
@@ -1011,10 +1034,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Mis en cause par âge",
                 "Pie": 1,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "Les familles d’infractions ayant permis le plus facilement la mise en cause d’une personne physique sont : la prise illégale d’intérêts, le détournement de fonds publics et la corruption active. ",
-                "InfoContent": " ",
+                "Info_titre": "Les familles d’infractions ayant permis le plus facilement la mise en cause d’une personne physique sont : la prise illégale d’intérêts, le détournement de fonds publics et la corruption active. ",
+                "Info_contenu": " ",
                 "indicateurs": [
                     {
                         "Code_indicateur": "de 40 à 49 ans",
@@ -1095,10 +1119,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Nature des victimes",
                 "Pie": 1,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
-                "InfoTitle": "Les familles d’infractions ayant permis le plus facilement la mise en cause d’une personne physique sont : la prise illégale d’intérêts, le détournement de fonds publics et la corruption active. ",
-                "InfoContent": " ",
+                "Info_titre": "Les familles d’infractions ayant permis le plus facilement la mise en cause d’une personne physique sont : la prise illégale d’intérêts, le détournement de fonds publics et la corruption active. ",
+                "Info_contenu": " ",
                 "indicateurs": [
                     {
                         "Code_indicateur": "F",
@@ -1147,6 +1172,7 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Courbe d'évolution",
                 "Pie": false,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": false,
                 "indicateurs": [
@@ -1189,10 +1215,11 @@
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
                 "Titre_onglet": "Outre-mer",
                 "Pie": false,
+                "Pie_legende": false,
                 "Table": false,
                 "Info": 1,
-                "InfoTitle": "Entre 2016 et 2020, l’outre-mer représente 18% des faits clôturés par la gendarmerie et 6% des faits clôturés par la police ",
-                "InfoContent": " ",
+                "Info_titre": "Entre 2016 et 2020, l’outre-mer représente 18% des faits clôturés par la gendarmerie et 6% des faits clôturés par la police ",
+                "Info_contenu": " ",
                 "indicateurs": [
                     {
                         "Code_indicateur": "NB_INF_PROB",
