@@ -4,7 +4,6 @@
             {
                 "Carte": false,
                 "Graph": false,
-                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": true,
@@ -21,7 +20,6 @@
             {
                 "Carte": false,
                 "Graph": false,
-                "Graph_avec_valeurs": false,
                 "Bar": false,
                 "Box": false,
                 "Points": true,
