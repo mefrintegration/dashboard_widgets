@@ -595,7 +595,7 @@
                         "Code_indicateur": "NOMBRE_MOYEN_PC",
                         "Nom_indicateur": "Test",
                         "Indicateur_principal": "3",
-                        "Titre_indicateur": "Nombre moyen de personnes civile par affaire",
+                        "Titre_indicateur": "Nombre moyen de parties civiles par affaire",
                         "Unité_GP": "personne(s)"
                     }
                 ]
