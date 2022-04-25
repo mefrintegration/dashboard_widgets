@@ -827,7 +827,7 @@
                 "Graph_avec_valeurs": false,
                 "Pie_legende": true,
                 "Avec_nom_indicateur": false,
-                "Avec_moyenne": false,
+                "Avec_moyenne": true,
                 "indicateurs": [
                     {
                         "Code_indicateur": "NB_INF_PROB",
@@ -857,7 +857,7 @@
                 "Graph_avec_valeurs": false,
                 "Pie_legende": true,
                 "Avec_nom_indicateur": false,
-                "Avec_moyenne": false,
+                "Avec_moyenne": true,
                 "indicateurs": [
                     {
                         "Code_indicateur": "PART_INF_PROB_HAB",
