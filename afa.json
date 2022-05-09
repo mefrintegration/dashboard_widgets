@@ -19,7 +19,7 @@
                 "Info": false,
                 "Info_titre": "c",
                 "Info_contenu": "c",
-                "Pie_titre": "Répartition par familles d’infractions",
+                "Pie_titre": "Répartition par familles d’infractions – Moyenne 2014-2020 ",
                 "Graph_avec_valeurs": false,
                 "Pie_legende": true,
                 "Avec_nom_indicateur": false,
@@ -29,7 +29,7 @@
                         "Code_indicateur": "ANALYSE_PAR_TYPE_CORRUPTION",
                         "Nom_indicateur": "CORRUPTION",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "CORRUPTION",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -37,7 +37,7 @@
                         "Code_indicateur": "ANALYSE_PAR_TYPE_FAVORITISME",
                         "Nom_indicateur": "FAVORITISME",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "FAVORITISME",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -45,7 +45,7 @@
                         "Code_indicateur": "ANALYSE_PAR_TYPE_TRAFIC D'INFLUENCE",
                         "Nom_indicateur": "TRAFIC D’INFLUENCE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "TRAFIC D’INFLUENCE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -53,7 +53,7 @@
                         "Code_indicateur": "ANALYSE_PAR_TYPE_DETOURNEMENT DE FONDS",
                         "Nom_indicateur": "DETOURNEMENT DE FONDS PUBLICS",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "DETOURNEMENT DE FONDS PUBLICS",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -61,7 +61,7 @@
                         "Code_indicateur": "ANALYSE_PAR_TYPE_PRISE ILLEGALE D'INTERETS",
                         "Nom_indicateur": "PRISE ILLEGALE D’INTERETS",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "PRISE ILLEGALE D’INTERETS",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
@@ -101,7 +101,7 @@
                         "Code_indicateur": "secteur économique public concerné",
                         "Nom_indicateur": "PUBLIC",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Favoritisme",
+                        "Titre_indicateur": "PUBLIC",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -109,7 +109,7 @@
                         "Code_indicateur": "secteur économique privé concerné",
                         "Nom_indicateur": "PRIVE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Favoritisme",
+                        "Titre_indicateur": "PRIVE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
@@ -146,18 +146,18 @@
                 "Avec_moyenne": false,
                 "indicateurs": [
                     {
-                        "Code_indicateur": "MISE_EN_CAUSE_POUR_PRISE ILLEGALE D'INTERETS",
-                        "Nom_indicateur": "PRISE ILLEGALE D’INTERETS",
+                        "Code_indicateur": "MISE_EN_CAUSE_POUR_DETOURNEMENT DE FONDS",
+                        "Nom_indicateur": "DETOURNEMENT DE FONDS",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "DETOURNEMENT DE FONDS",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "MISE_EN_CAUSE_POUR_DETOURNEMENT DE FONDS",
-                        "Nom_indicateur": "DETOURNEMENT DE FONDS",
+                        "Code_indicateur": "MISE_EN_CAUSE_POUR_PRISE ILLEGALE D'INTERETS",
+                        "Nom_indicateur": "PRISE ILLEGALE D’INTERETS",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "PRISE ILLEGALE D’INTERETS",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -165,7 +165,7 @@
                         "Code_indicateur": "MISE_EN_CAUSE_POUR_TRAFIC D'INFLUENCE",
                         "Nom_indicateur": "TRAFIC D’INFLUENCE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "TRAFIC D’INFLUENCE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -173,7 +173,7 @@
                         "Code_indicateur": "MISE_EN_CAUSE_POUR_FAVORITISME",
                         "Nom_indicateur": "FAVORITISME",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "FAVORITISME",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -181,7 +181,7 @@
                         "Code_indicateur": "MISE_EN_CAUSE_POUR_CORRUPTION",
                         "Nom_indicateur": "CORRUPTION",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "CORRUPTION",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
@@ -194,7 +194,7 @@
                 "Box": 1,
                 "Points": false,
                 "MinGeoLevel": "departements",
-                "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
+                "Description_mesure": " ",
                 "Titre_onglet": "Indicateurs",
                 "Pie": false,
                 "Table": false,
@@ -256,7 +256,7 @@
                         "Code_indicateur": "PART_PERS_MOR_PREV",
                         "Nom_indicateur": "PERSONNE MORALE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "PERSONNE MORALE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -264,7 +264,7 @@
                         "Code_indicateur": "PART_PERS_PHYS_PREV",
                         "Nom_indicateur": "PERSONNE PHYSIQUE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "PERSONNE PHYSIQUE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
@@ -282,8 +282,8 @@
                 "Pie": 1,
                 "Table": false,
                 "Info": false,
-                "Info_titre": "c",
-                "Info_contenu": "c",
+                "Info_titre": "jellsf",
+                "Info_contenu": "qosfjhsq",
                 "Pie_titre": "Répartition des prévenus par sexe",
                 "Graph_avec_valeurs": false,
                 "Pie_legende": true,
@@ -291,18 +291,18 @@
                 "Avec_moyenne": false,
                 "indicateurs": [
                     {
-                        "Code_indicateur": "FEMME",
-                        "Nom_indicateur": "FEMME",
+                        "Code_indicateur": "HOMME",
+                        "Nom_indicateur": "HOMME",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "HOMME",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "HOMME",
-                        "Nom_indicateur": "HOMME",
+                        "Code_indicateur": "FEMME",
+                        "Nom_indicateur": "FEMME",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "FEMME",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
@@ -325,7 +325,7 @@
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
-                "Description_mesure": "Note de lecture : En moyenne, entre 2014 et 2020, sur l’échantillon de 111 décisions de justice analysées par l’AFA, 37,3% des prévenus pour des faits d’atteinte à la probité étaient des agents publics et XX% étaient des cadres de la fonction publique, et des professions intellectuelles et artistiques.\\n\\nLes catégories « Qualité des prévenus » ont été créées par l’AFA.\\n\\nLes catégories « CSP » correspondent à la nomenclature PCS 2003 – Niveau 2 de l’INSEE qui comprend 24 postes (https://www.insee.fr/fr/information/2400059). L’intitulé exact des 7 catégories les plus représentées est le suivant :\\n     • Cadres de la fonction publique, professions intellectuelles et artistiques\\n     • Inactifs divers (autres que retraités)\\n     • Employés de la fonction publique.\\n     • Professions intermédiaires de l'enseignement, de la santé, de la fonction publique et assimilés.\\n     • Chefs d'entreprise de 10 salariés ou plus.\\n     • Cadres d’entreprise",
+                "Description_mesure": "Note de lecture : En moyenne, entre 2014 et 2020, sur l’échantillon de 111 décisions de justice analysées par l’AFA, 17,4% des prévenus pour des faits d’atteinte à la probité étaient des employés de la fonction publique et 15,6% étaient des chefs d’entreprises d’au moins 10 salariés. \\n\\nLes catégories « Qualité des prévenus » ont été créées par l’AFA.\\n\\nLes catégories « CSP » correspondent à la nomenclature PCS 2003 – Niveau 2 de l’INSEE qui comprend 24 postes (https://www.insee.fr/fr/information/2400059).",
                 "Titre_onglet": "Qualité des prévenus",
                 "Pie": 1,
                 "Table": false,
@@ -342,15 +342,15 @@
                         "Code_indicateur": "ELUS",
                         "Nom_indicateur": "ELUS",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "ELUS",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
                     {
                         "Code_indicateur": "CHEF D'ENTREPRISE AVEC SERVICE PUBLIC",
-                        "Nom_indicateur": "CHEF D’ENTREPRISE AVEC SERVICE PUBLIC",
+                        "Nom_indicateur": "CHEFS D’ENTREPRISE DANS LE SERVICE PUBLIC",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "CHEFS D’ENTREPRISE DANS SERVICE PUBLIC",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -358,7 +358,7 @@
                         "Code_indicateur": "AGENTS PUBLICS",
                         "Nom_indicateur": "AGENTS PUBLICS",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "AGENTS PUBLICS",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -366,7 +366,7 @@
                         "Code_indicateur": "EMPLOYES",
                         "Nom_indicateur": "EMPLOYES",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "EMPLOYES",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -374,7 +374,7 @@
                         "Code_indicateur": "PARTICULIERS",
                         "Nom_indicateur": "PARTICULIERS",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "PARTICULIERS",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -382,7 +382,7 @@
                         "Code_indicateur": "DIRIGEANTS DE SOCIETE",
                         "Nom_indicateur": "DIRIGEANTS DE SOCIETE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "DIRIGEANTS DE SOCIETE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
@@ -395,7 +395,7 @@
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
-                "Description_mesure": "Note de lecture : En moyenne, entre 2014 et 2020, sur l’échantillon de 111 décisions de justice analysées par l’AFA, 37,3% des prévenus pour des faits d’atteinte à la probité étaient des agents publics et XX% étaient des cadres de la fonction publique, et des professions intellectuelles et artistiques.\\n\\nLes catégories « Qualité des prévenus » ont été créées par l’AFA.\\n\\nLes catégories « CSP » correspondent à la nomenclature PCS 2003 – Niveau 2 de l’INSEE qui comprend 24 postes (https://www.insee.fr/fr/information/2400059). L’intitulé exact des 7 catégories les plus représentées est le suivant :\\n     • Cadres de la fonction publique, professions intellectuelles et artistiques\\n     • Inactifs divers (autres que retraités)\\n     • Employés de la fonction publique.\\n     • Professions intermédiaires de l'enseignement, de la santé, de la fonction publique et assimilés.\\n     • Chefs d'entreprise de 10 salariés ou plus.\\n     • Cadres d’entreprise",
+                "Description_mesure": "Note de lecture : En moyenne, entre 2014 et 2020, sur l’échantillon de 111 décisions de justice analysées par l’AFA, 17,4% des prévenus pour des faits d’atteinte à la probité étaient des employés de la fonction publique et 15,6% étaient des chefs d’entreprises d’au moins 10 salariés. \\n\\nLes catégories « Qualité des prévenus » ont été créées par l’AFA.\\n\\nLes catégories « CSP » correspondent à la nomenclature PCS 2003 – Niveau 2 de l’INSEE qui comprend 24 postes (https://www.insee.fr/fr/information/2400059).",
                 "Titre_onglet": "Catégorie socio-professionnelle",
                 "Pie": 1,
                 "Table": false,
@@ -409,18 +409,10 @@
                 "Avec_moyenne": false,
                 "indicateurs": [
                     {
-                        "Code_indicateur": "PROFESSIONS INTERMÉDIAIRES DE L'ENSEIGNEMENT, DE LA SANTÉ, DE LA FONCTION PUBLIQUE ET ASSIMILÉS",
-                        "Nom_indicateur": "PROFESSIONS INTERMÉDIAIRES DE L'ENSEIGNEMENT, DE LA SANTÉ, DE LA FONCTION PUBLIQUE ET ASSIMILÉS",
+                        "Code_indicateur": "NON RENSEIGNE",
+                        "Nom_indicateur": "NON RENSEIGNE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "EMPLOYÉS DE LA FONCTION PUBLIQUE",
-                        "Nom_indicateur": "EMPLOYÉS DE LA FONCTION PUBLIQUE",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "NON RENSEIGNE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -428,7 +420,7 @@
                         "Code_indicateur": "AUTRE_CATEGORIE_Profession et catégorie socioprofessionnelle",
                         "Nom_indicateur": "AUTRE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "AUTRE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -436,15 +428,23 @@
                         "Code_indicateur": "INACTIFS DIVERS (AUTRES QUE RETRAITÉS)",
                         "Nom_indicateur": "INACTIFS DIVERS (AUTRES QUE RETRAITÉS)",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "INACTIFS DIVERS (AUTRES QUE RETRAITÉS)",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "NON RENSEIGNE",
-                        "Nom_indicateur": "NON RENSEIGNE",
+                        "Code_indicateur": "EMPLOYÉS DE LA FONCTION PUBLIQUE",
+                        "Nom_indicateur": "EMPLOYÉS DE LA FONCTION PUBLIQUE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "EMPLOYÉS DE LA FONCTION PUBLIQUE",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "PROFESSIONS INTERMÉDIAIRES DE L'ENSEIGNEMENT, DE LA SANTÉ, DE LA FONCTION PUBLIQUE ET ASSIMILÉS",
+                        "Nom_indicateur": "PROFESSIONS INTERMÉDIAIRES DE L'ENSEIGNEMENT, DE LA SANTÉ, DE LA FONCTION PUBLIQUE ET ASSIMILÉS",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "PROFESSIONS INTERMÉDIAIRES DE L'ENSEIGNEMENT, DE LA SANTÉ, DE LA FONCTION PUBLIQUE ET ASSIMILÉS",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -452,7 +452,7 @@
                         "Code_indicateur": "CADRES D'ENTREPRISE",
                         "Nom_indicateur": "CADRES D’ENTREPRISE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "CADRES D’ENTREPRISE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -460,7 +460,7 @@
                         "Code_indicateur": "CHEFS D'ENTREPRISE DE 10 SALARIÉS OU PLUS",
                         "Nom_indicateur": "CHEFS D'ENTREPRISE DE 10 SALARIÉS OU PLUS",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "CHEFS D'ENTREPRISE DE 10 SALARIÉS OU PLUS",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -468,7 +468,7 @@
                         "Code_indicateur": "CADRES DE LA FONCTION PUBLIQUE, PROFESSIONS INTELLECTUELLES ET  ARTISTIQUES",
                         "Nom_indicateur": "CADRES DE LA FONCTION PUBLIQUE, PROFESSIONS INTELLECTUELLES ET ARTISTIQUES",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Corruption active",
+                        "Titre_indicateur": "CADRES DE LA FONCTION PUBLIQUE, PROFESSIONS INTELLECTUELLES ET ARTISTIQUES",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
@@ -508,15 +508,7 @@
                         "Code_indicateur": "DOSSIER CONNEXE JUSTICE",
                         "Nom_indicateur": "DOSSIER CONNEXE JUSTICE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "TI passif",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "LETTRE ANONYME",
-                        "Nom_indicateur": "LETTRE ANONYME",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "TI passif",
+                        "Titre_indicateur": "DOSSIER CONNEXE JUSTICE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -524,7 +516,7 @@
                         "Code_indicateur": "PLAINTE",
                         "Nom_indicateur": "PLAINTE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "TI passif",
+                        "Titre_indicateur": "PLAINTE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -532,7 +524,7 @@
                         "Code_indicateur": "AUTRE_CATEGORIE_origine de l’affaire",
                         "Nom_indicateur": "AUTRE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "TI passif",
+                        "Titre_indicateur": "AUTRE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -540,7 +532,15 @@
                         "Code_indicateur": "ARTICLE 40 al.2",
                         "Nom_indicateur": "ARTICLE 40 al.2",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "TI passif",
+                        "Titre_indicateur": "ARTICLE 40 al.1",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "LETTRE ANONYME",
+                        "Nom_indicateur": "LETTRE ANONYME",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "LETTRE ANONYME",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
@@ -554,7 +554,7 @@
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Note de lecture : En moyenne, entre 2014 et 2020, sur l’échantillon de 111 décisions de justice analysées par l’AFA, 34,4% des faits d’atteinte à la probité jugés avaient pour origine une plainte.\\n\\nLa période de prévention est la durée durant laquelle les faits reprochés à un prévenu ont été commis.",
-                "Titre_onglet": "Indicateurs",
+                "Titre_onglet": "Indicateur",
                 "Pie": false,
                 "Table": false,
                 "Info": false,
@@ -568,7 +568,7 @@
                     {
                         "Code_indicateur": "durée de la période de prévention (en nbr jours)",
                         "Indicateur_principal": "4",
-                        "Titre_indicateur": "Durée de la période de prévention ",
+                        "Titre_indicateur": "Durée moyenne de la période de prévention ",
                         "Unité_GP": "jours",
                         "Unité_Evol": "%"
                     }
@@ -591,7 +591,7 @@
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
-                "Description_mesure": "Note de lecture : En moyenne, entre 2014 et 2020, sur l’échantillon de 111 décisions de justice analysées par l’AFA, 58,9% des faits d’atteinte à la probité jugés ont entraîné une condamnation du prévenu et 46,8% de ces condamnations comprenaient une peine d’emprisonnement et une peine d’amende.\\n\\nLa relaxe est une décision prise par une juridiction pénale de jugement autre que la Cour d'assises (tribunal correctionnel ou tribunal de police), qui déclare non coupable le prévenu renvoyée devant elle.\\n\\nL’extinction de l’action publique est constatée lorsque les conditions nécessaires pour poursuivre une personne ne sont plus réunies (décès, prescription). \\n\\nLa catégorie « autre » regroupe les situations suivantes : annulation de la procédure, nullité des poursuites, irrecevabilité de la citation directe devant le tribunal, etc. ",
+                "Description_mesure": "Note de lecture : En moyenne, entre 2014 et 2020, sur l’échantillon de 111 décisions de justice analysées par l’AFA, 58,9% des faits d’atteinte à la probité jugés ont entraîné une condamnation du prévenu et 41,8% de ces condamnations comprenaient une peine d’emprisonnement et une peine d’amende.\\n\\nLa relaxe est une décision prise par une juridiction pénale de jugement autre que la Cour d'assises (tribunal correctionnel ou tribunal de police), qui déclare non coupable le prévenu renvoyée devant elle.\\n\\nL’extinction de l’action publique est constatée lorsque les conditions nécessaires pour poursuivre une personne ne sont plus réunies (décès, prescription). \\n\\nLa catégorie « autre » regroupe les situations suivantes : annulation de la procédure, nullité des poursuites, irrecevabilité de la citation directe devant le tribunal, etc. ",
                 "Titre_onglet": "Sens de la décision",
                 "Pie": 1,
                 "Table": false,
@@ -608,7 +608,7 @@
                         "Code_indicateur": "CONDAMNATION",
                         "Nom_indicateur": "CONDAMNATION",
                         "Indicateur_principal": "3",
-                        "Titre_indicateur": "d’âge moyen des prévenus",
+                        "Titre_indicateur": "CONDAMNATION",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -616,15 +616,7 @@
                         "Code_indicateur": "AUTRE",
                         "Nom_indicateur": "AUTRE",
                         "Indicateur_principal": "3",
-                        "Titre_indicateur": "d’âge moyen des prévenus",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "Extinction action publique",
-                        "Nom_indicateur": "Extinction action publique",
-                        "Indicateur_principal": "3",
-                        "Titre_indicateur": "d’âge moyen des prévenus",
+                        "Titre_indicateur": "AUTRE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -632,7 +624,15 @@
                         "Code_indicateur": "RELAXE",
                         "Nom_indicateur": "RELAXE",
                         "Indicateur_principal": "3",
-                        "Titre_indicateur": "d’âge moyen des prévenus",
+                        "Titre_indicateur": "RELAXE",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "Extinction action publique",
+                        "Nom_indicateur": "Extinction action publique",
+                        "Indicateur_principal": "3",
+                        "Titre_indicateur": "Extinction action publique",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
@@ -645,7 +645,7 @@
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
-                "Description_mesure": "Note de lecture : En moyenne, entre 2014 et 2020, sur l’échantillon de 111 décisions de justice analysées par l’AFA, 58,9% des faits d’atteinte à la probité jugés ont entraîné une condamnation du prévenu et 46,8% de ces condamnations comprenaient une peine d’emprisonnement et une peine d’amende.\\n\\nLa relaxe est une décision prise par une juridiction pénale de jugement autre que la Cour d'assises (tribunal correctionnel ou tribunal de police), qui déclare non coupable le prévenu renvoyée devant elle.\\n\\nL’extinction de l’action publique est constatée lorsque les conditions nécessaires pour poursuivre une personne ne sont plus réunies (décès, prescription). \\n\\nLa catégorie « autre » regroupe les situations suivantes : annulation de la procédure, nullité des poursuites, irrecevabilité de la citation directe devant le tribunal, etc. ",
+                "Description_mesure": "Note de lecture : En moyenne, entre 2014 et 2020, sur l’échantillon de 111 décisions de justice analysées par l’AFA, 58,9% des faits d’atteinte à la probité jugés ont entraîné une condamnation du prévenu et 41,8% de ces condamnations comprenaient une peine d’emprisonnement et une peine d’amende.\\n\\nLa relaxe est une décision prise par une juridiction pénale de jugement autre que la Cour d'assises (tribunal correctionnel ou tribunal de police), qui déclare non coupable le prévenu renvoyée devant elle.\\n\\nL’extinction de l’action publique est constatée lorsque les conditions nécessaires pour poursuivre une personne ne sont plus réunies (décès, prescription). \\n\\nLa catégorie « autre » regroupe les situations suivantes : annulation de la procédure, nullité des poursuites, irrecevabilité de la citation directe devant le tribunal, etc. ",
                 "Titre_onglet": "Type de peine",
                 "Pie": 1,
                 "Table": false,
@@ -662,15 +662,7 @@
                         "Code_indicateur": "AMENDE",
                         "Nom_indicateur": "AMENDE",
                         "Indicateur_principal": "3",
-                        "Titre_indicateur": "d’âge moyen des prévenus",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "DISPENSE DE PEINE",
-                        "Nom_indicateur": "DISPENSE DE PEINE",
-                        "Indicateur_principal": "3",
-                        "Titre_indicateur": "d’âge moyen des prévenus",
+                        "Titre_indicateur": "AMENDE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -678,7 +670,15 @@
                         "Code_indicateur": "EMPRISONNEMENT",
                         "Nom_indicateur": "EMPRISONNEMENT",
                         "Indicateur_principal": "3",
-                        "Titre_indicateur": "d’âge moyen des prévenus",
+                        "Titre_indicateur": "EMPRISONNEMENT",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "DISPENSE DE PEINE",
+                        "Nom_indicateur": "DISPENSE DE PEINE",
+                        "Indicateur_principal": "3",
+                        "Titre_indicateur": "DISPENSE DE PEINE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -686,7 +686,7 @@
                         "Code_indicateur": "EMPRISONNEMENT ET AMENDE",
                         "Nom_indicateur": "AMENDE & EMPRISONNEMENT",
                         "Indicateur_principal": "3",
-                        "Titre_indicateur": "d’âge moyen des prévenus",
+                        "Titre_indicateur": "AMENDE & EMPRISONNEMENT",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
@@ -696,7 +696,7 @@
     },
     {
         "Lien_page_mesure": "https://www.agence-francaise-anticorruption.gouv.fr/fr",
-        "Titre_panneau": "Indicateurs traitement judicaire",
+        "Titre_panneau": "Indicateurs du traitement judicaire",
         "Volet": "Données issues de l’analyse des décisions de justice",
         "source": "Analyse par l’AFA de 111 décisions de justice rendues entre 2014 et 2020 en matière d’atteintes à la probité",
         "accordéon": "En savoir plus sur la donnée",
@@ -762,9 +762,9 @@
     },
     {
         "Lien_page_mesure": "https://www.agence-francaise-anticorruption.gouv.fr/fr",
-        "Titre_panneau": "Évolution des faits",
-        "Volet": "Données du SSMSI",
-        "source": "Analyse par l’AFA de 111 décisions de justice rendues entre 2014 et 2020 en matière d’atteintes à la probité",
+        "Titre_panneau": "Évolution nationale des faits d’atteinte à la probité",
+        "Volet": "Données issues des enquêtes judiciaires de la gendarmerie et de la police nationales",
+        "source": "AFA, d’après des données du service statistique de la sécurité intérieure (SSMSI), base des infractions enregistrées par la police et la gendarmerie (extraite le 10 février 2021). ",
         "accordéon": "En savoir plus sur la donnée",
         "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
@@ -792,7 +792,7 @@
                     {
                         "Code_indicateur": "NB_INF_PROB",
                         "Indicateur_principal": "10",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité",
+                        "Titre_indicateur": "Nombre d’infractions d’atteinte à la probité commises ",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
@@ -803,8 +803,8 @@
     {
         "Lien_page_mesure": "https://www.agence-francaise-anticorruption.gouv.fr/fr",
         "Titre_panneau": "Analyse géographique",
-        "Volet": "Données du SSMSI",
-        "source": "Analyse par l’AFA de 111 décisions de justice rendues entre 2014 et 2020 en matière d’atteintes à la probité",
+        "Volet": "Données issues des enquêtes judiciaires de la gendarmerie et de la police nationales",
+        "source": "AFA, d’après des données du service statistique de la sécurité intérieure (SSMSI), base des infractions enregistrées par la police et la gendarmerie (extraite le 10 février 2021). ",
         "accordéon": "En savoir plus sur la donnée",
         "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
@@ -816,7 +816,7 @@
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
-                "Description_mesure": "Note de lecture : Entre 2016 et 2020, 17 infractions d’atteinte à la probité ont été clôturées par les forces de sécurité intérieure dans le département des Bouches du Rhône.",
+                "Description_mesure": "Note de lecture : Entre 2016 et 2020, en moyenne, 24,6 infractions d’atteinte à la probité ont été clôturées par les forces de sécurité intérieure dans le département des Bouches du Rhône tous les ans. ",
                 "Titre_onglet": "Faits bruts",
                 "Pie": false,
                 "Table": 2,
@@ -840,14 +840,14 @@
             },
             {
                 "Carte": 1,
-                "Carte_titre": "Répartition géographique des infractions d’atteinte à la probité clôturées entre 2016 et 2020",
+                "Carte_titre": "Répartition géographique des infractions d’atteinte à la probité clôturées entre 2016 et 2020 rapportées à la population ",
                 "Graph": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
-                "Titre_onglet": "Faits bruts pondérés",
+                "Titre_onglet": "Faits pondérés",
                 "Pie": false,
                 "Table": 2,
                 "Table_titre": "Départements avec le plus grand nombre de faits clôturés",
@@ -873,7 +873,7 @@
     {
         "Lien_page_mesure": "https://www.agence-francaise-anticorruption.gouv.fr/fr",
         "Titre_panneau": "Analyse par famille d'infraction",
-        "Volet": "Données du SSMSI",
+        "Volet": "Données issues des enquêtes judiciaires de la gendarmerie et de la police nationales",
         "source": "AFA, d’après des données du service statistique de la sécurité intérieure (SSMSI), base des infractions enregistrées par la police et la gendarmerie (extraite le 10 février 2021). ",
         "accordéon": "En savoir plus sur la donnée",
         "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
@@ -885,7 +885,7 @@
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
-                "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
+                "Description_mesure": "Note de lecture : Entre 2016 et 2020, l’infraction de prise illégale d’intérêts représente 29,8% des infractions clôturées par les forces de sécurité intérieure en France.",
                 "Titre_onglet": "Famille d'infraction",
                 "Pie": 1,
                 "Table": false,
@@ -903,15 +903,7 @@
                         "Code_indicateur": "Corruption passive",
                         "Nom_indicateur": "CORRUPTION PASSIVE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "Corruption active",
-                        "Nom_indicateur": "CORRUPTION ACTIVE",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
+                        "Titre_indicateur": "CORRUPTION PASSIVE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -919,31 +911,23 @@
                         "Code_indicateur": "Concussion",
                         "Nom_indicateur": "CONCUSSION",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
+                        "Titre_indicateur": "CONCUSSION",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "TI passif",
-                        "Nom_indicateur": "TRAFIC D'INFLUENCE PASSIF",
+                        "Code_indicateur": "Corruption active",
+                        "Nom_indicateur": "CORRUPTION ACTIVE",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
+                        "Titre_indicateur": "CORRUPTION ACTIVE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "PII",
-                        "Nom_indicateur": "PRISE ILLEGALE D'INTERET",
+                        "Code_indicateur": "DFP",
+                        "Nom_indicateur": "DETOURNEMENT DE FONDS PUBLICS",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "Favoritisme",
-                        "Nom_indicateur": "FAVORITISME",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
+                        "Titre_indicateur": "DETOURNEMENT DE FONDS PUBLICS",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -951,15 +935,31 @@
                         "Code_indicateur": "TI actif",
                         "Nom_indicateur": "TRAFIC D'INFLUENCE ACTIF",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
+                        "Titre_indicateur": "TRAFIC D'INFLUENCE ACTIF",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "DFP",
-                        "Nom_indicateur": "DETOURNEMENT DE FONDS",
+                        "Code_indicateur": "Favoritisme",
+                        "Nom_indicateur": "FAVORITISME",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
+                        "Titre_indicateur": "FAVORITISME",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "TI passif",
+                        "Nom_indicateur": "TRAFIC D'INFLUENCE PASSIF",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "TRAFIC D'INFLUENCE PASSIF",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "PII",
+                        "Nom_indicateur": "PRISE ILLEGALE D'INTERETS",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "PRISE ILLEGALE D'INTERETS",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
@@ -969,8 +969,8 @@
     },
     {
         "Lien_page_mesure": "https://www.agence-francaise-anticorruption.gouv.fr/fr",
-        "Titre_panneau": "Profil type du prévenu",
-        "Volet": "Données du SSMSI",
+        "Titre_panneau": "Profil type du mis en cause",
+        "Volet": "Données issues des enquêtes judiciaires de la gendarmerie et de la police nationales",
         "source": "AFA, d’après des données du service statistique de la sécurité intérieure (SSMSI), base des infractions enregistrées par la police et la gendarmerie (extraite le 10 février 2021). ",
         "accordéon": "En savoir plus sur la donnée",
         "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
@@ -982,31 +982,31 @@
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
-                "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
+                "Description_mesure": "Note de lecture : Entre 2016 et 2020, le profil type d’un mis en cause pour une infraction d’atteinte à la probité est un homme (79,3%) ayant entre 40 et 59 ans (26,1%). ",
                 "Titre_onglet": "Mis en cause par âge",
                 "Pie": 1,
                 "Table": false,
                 "Info": false,
                 "Info_titre": "Les familles d’infractions ayant permis le plus facilement la prévenu d’une personne physique sont : la prise illégale d’intérêts, le détournement de fonds publics et la corruption active. ",
-                "Pie_titre": "Répartition par âge du prévenu",
+                "Pie_titre": "Répartition par âge des mis en cause",
                 "Graph_avec_valeurs": false,
                 "Pie_legende": true,
                 "Avec_nom_indicateur": false,
                 "Avec_moyenne": false,
                 "indicateurs": [
                     {
-                        "Code_indicateur": "de 20 à 29 ans",
-                        "Nom_indicateur": "de 20 à 29 ans",
+                        "Code_indicateur": "de 30 à 39 ans",
+                        "Nom_indicateur": "de 30 à 39 ans",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
+                        "Titre_indicateur": "de 30 à 39 ans",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "de 30 à 39 ans",
-                        "Nom_indicateur": "de 30 à 39 ans",
+                        "Code_indicateur": "de 20 à 29 ans",
+                        "Nom_indicateur": "de 20 à 29 ans",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
+                        "Titre_indicateur": "de 20 à 29 ans",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -1014,15 +1014,7 @@
                         "Code_indicateur": "70 ans et plus",
                         "Nom_indicateur": "70 ans et plus",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "Age indeterminé",
-                        "Nom_indicateur": "Age indeterminé",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
+                        "Titre_indicateur": "69 ans et plus",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -1030,7 +1022,7 @@
                         "Code_indicateur": "de 60 à 69 ans",
                         "Nom_indicateur": "de 60 à 69 ans",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
+                        "Titre_indicateur": "de 60 à 69 ans",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -1038,7 +1030,7 @@
                         "Code_indicateur": "de 50 à 59 ans",
                         "Nom_indicateur": "de 50 à 59 ans",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
+                        "Titre_indicateur": "de 50 à 59 ans",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -1046,22 +1038,20 @@
                         "Code_indicateur": "de 40 à 49 ans",
                         "Nom_indicateur": "de 40 à 49 ans",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité pour 100 000 habitants",
+                        "Titre_indicateur": "de 40 à 49 ans",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "Age indeterminé",
+                        "Nom_indicateur": "Age indeterminé",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "Age indeterminé",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "Lien_page_mesure": "https://www.agence-francaise-anticorruption.gouv.fr/fr",
-        "Titre_panneau": "Outre-mer",
-        "Volet": "Données du SSMSI",
-        "source": "AFA, d’après des données du service statistique de la sécurité intérieure (SSMSI), base des infractions enregistrées par la police et la gendarmerie (extraite le 10 février 2021). ",
-        "accordéon": "En savoir plus sur la donnée",
-        "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
-        "onglets": [
+            },
             {
                 "Carte": false,
                 "Graph": false,
@@ -1069,21 +1059,39 @@
                 "Box": false,
                 "Points": false,
                 "MinGeoLevel": "departements",
-                "Description_mesure": "Les atteintes à la probité  sont definies par : la corruption, le trafics d’influence, l’ingérence,  la prise illégale d’intérêt, le détournement de biens publics et le conflit d’intérêts.",
-                "Titre_onglet": "Outre-mer",
-                "Pie": false,
+                "Description_mesure": "Note de lecture : Entre 2016 et 2020, le profil type d’un mis en cause pour une infraction d’atteinte à la probité est un homme (79,3%) ayant entre 40 et 59 ans (26,1%). ",
+                "Titre_onglet": "Mis en cause par genre",
+                "Pie": 1,
                 "Table": false,
-                "Info": 1,
-                "Info_titre": "Entre 2016 et 2020, l’outre-mer représente 18% des faits clôturés par la gendarmerie et 6% des faits clôturés par la police ",
+                "Info": false,
+                "Info_titre": "Les familles d’infractions ayant permis le plus facilement la prévenu d’une personne physique sont : la prise illégale d’intérêts, le détournement de fonds publics et la corruption active. ",
+                "Pie_titre": "Répartition par genre des mis en cause",
                 "Graph_avec_valeurs": false,
                 "Pie_legende": true,
                 "Avec_nom_indicateur": false,
                 "Avec_moyenne": false,
                 "indicateurs": [
                     {
-                        "Code_indicateur": "NB_INF_PROB",
+                        "Code_indicateur": "H",
+                        "Nom_indicateur": "HOMME",
                         "Indicateur_principal": "1",
-                        "Titre_indicateur": "Nombre d'infractions pour des atteintes à la probité",
+                        "Titre_indicateur": "HOMME",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "F",
+                        "Nom_indicateur": "FEMME",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "FEMME",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "NR",
+                        "Nom_indicateur": "NON RENSEIGNE",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "NON RENSEIGNE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
