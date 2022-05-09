@@ -669,18 +669,18 @@
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "EMPLOYÉS DE LA FONCTION PUBLIQUE",
-                        "Nom_indicateur": "EMPLOYÉS DE LA FONCTION PUBLIQUE",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "EMPLOYÉS DE LA FONCTION PUBLIQUE",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
                         "Code_indicateur": "CHEFS D'ENTREPRISE DE 10 SALARIÉS OU PLUS",
                         "Nom_indicateur": "CHEFS D'ENTREPRISE DE 10 SALARIÉS OU PLUS",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "CHEFS D'ENTREPRISE DE 10 SALARIÉS OU PLUS",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "EMPLOYÉS DE LA FONCTION PUBLIQUE",
+                        "Nom_indicateur": "EMPLOYÉS DE LA FONCTION PUBLIQUE",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "EMPLOYÉS DE LA FONCTION PUBLIQUE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
@@ -717,18 +717,18 @@
                 "Avec_moyenne": false,
                 "indicateurs": [
                     {
-                        "Code_indicateur": "AUTRE_CATEGORIE_origine de l’affaire",
-                        "Nom_indicateur": "AUTRE",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "AUTRE",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
                         "Code_indicateur": "PLAINTE",
                         "Nom_indicateur": "PLAINTE",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "PLAINTE",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "AUTRE_CATEGORIE_origine de l’affaire",
+                        "Nom_indicateur": "AUTRE",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "AUTRE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -825,10 +825,10 @@
                 "Avec_moyenne": false,
                 "indicateurs": [
                     {
-                        "Code_indicateur": "RELAXE",
-                        "Nom_indicateur": "RELAXE",
+                        "Code_indicateur": "Extinction action publique",
+                        "Nom_indicateur": "Extinction action publique",
                         "Indicateur_principal": "3",
-                        "Titre_indicateur": "RELAXE",
+                        "Titre_indicateur": "Extinction action publique",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -841,10 +841,10 @@
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "Extinction action publique",
-                        "Nom_indicateur": "Extinction action publique",
+                        "Code_indicateur": "RELAXE",
+                        "Nom_indicateur": "RELAXE",
                         "Indicateur_principal": "3",
-                        "Titre_indicateur": "Extinction action publique",
+                        "Titre_indicateur": "RELAXE",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -879,18 +879,10 @@
                 "Avec_moyenne": false,
                 "indicateurs": [
                     {
-                        "Code_indicateur": "EMPRISONNEMENT",
-                        "Nom_indicateur": "EMPRISONNEMENT",
+                        "Code_indicateur": "EMPRISONNEMENT ET AMENDE",
+                        "Nom_indicateur": "AMENDE & EMPRISONNEMENT",
                         "Indicateur_principal": "3",
-                        "Titre_indicateur": "EMPRISONNEMENT",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
-                        "Code_indicateur": "AMENDE",
-                        "Nom_indicateur": "AMENDE",
-                        "Indicateur_principal": "3",
-                        "Titre_indicateur": "AMENDE",
+                        "Titre_indicateur": "AMENDE & EMPRISONNEMENT",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
@@ -903,10 +895,18 @@
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "EMPRISONNEMENT ET AMENDE",
-                        "Nom_indicateur": "AMENDE & EMPRISONNEMENT",
+                        "Code_indicateur": "AMENDE",
+                        "Nom_indicateur": "AMENDE",
                         "Indicateur_principal": "3",
-                        "Titre_indicateur": "AMENDE & EMPRISONNEMENT",
+                        "Titre_indicateur": "AMENDE",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "EMPRISONNEMENT",
+                        "Nom_indicateur": "EMPRISONNEMENT",
+                        "Indicateur_principal": "3",
+                        "Titre_indicateur": "EMPRISONNEMENT",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     }
@@ -930,7 +930,7 @@
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Note de lecture : Entre 2014 et 2020, sur l’échantillon de 111 décisions de justice analysées par l’AFA,  les personnes physiques condamnés pour des faits d’atteinte à la probité ont été condamnés en moyenne à 15.77 mois d’emprisonnement et à 40601.39 € d’amende.\\n\\nLes peines d’emprisonnements comprennent les emprisonnements fermes, avec sursis simple et avec sursis mise à l’épreuve.",
-                "Titre_onglet": "Indicateurs personne physique",
+                "Titre_onglet": "Indicateurs personnes physiques",
                 "Pie": false,
                 "Table": false,
                 "Info": false,
@@ -941,6 +941,13 @@
                 "Avec_nom_indicateur": false,
                 "Avec_moyenne": false,
                 "indicateurs": [
+                    {
+                        "Code_indicateur": "montant amende physique",
+                        "Indicateur_principal": "3",
+                        "Titre_indicateur": "Montant moyen des amendes prononcées",
+                        "Unité_GP": "€",
+                        "Unité_Evol": "%"
+                    },
                     {
                         "Code_indicateur": "durée de l'emprisonnement (mois)",
                         "Indicateur_principal": "3",
@@ -958,7 +965,7 @@
                 "Points": false,
                 "MinGeoLevel": "departements",
                 "Description_mesure": "Note de lecture : Entre 2014 et 2020, sur l’échantillon de 111 décisions de justice analysées par l’AFA,  les personnes physiques condamnés pour des faits d’atteinte à la probité ont été condamnés en moyenne à 15.77 mois d’emprisonnement et à 40601.39 € d’amende.\\n\\nLes peines d’emprisonnements comprennent les emprisonnements fermes, avec sursis simple et avec sursis mise à l’épreuve.",
-                "Titre_onglet": "Indicateurs amende",
+                "Titre_onglet": "Indicateur personnes morales",
                 "Pie": false,
                 "Table": false,
                 "Info": false,
@@ -970,7 +977,7 @@
                 "Avec_moyenne": false,
                 "indicateurs": [
                     {
-                        "Code_indicateur": "montant de l'amende",
+                        "Code_indicateur": "montant amende morale",
                         "Indicateur_principal": "3",
                         "Titre_indicateur": "Montant moyen des amendes prononcées",
                         "Unité_GP": "€",
@@ -1128,18 +1135,18 @@
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "Concussion",
-                        "Nom_indicateur": "CONCUSSION",
-                        "Indicateur_principal": "1",
-                        "Titre_indicateur": "CONCUSSION",
-                        "Unité_GP": "Infractions en 2020",
-                        "Unité_Evol": "%"
-                    },
-                    {
                         "Code_indicateur": "Corruption active",
                         "Nom_indicateur": "CORRUPTION ACTIVE",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "CORRUPTION ACTIVE",
+                        "Unité_GP": "Infractions en 2020",
+                        "Unité_Evol": "%"
+                    },
+                    {
+                        "Code_indicateur": "Concussion",
+                        "Nom_indicateur": "CONCUSSION",
+                        "Indicateur_principal": "1",
+                        "Titre_indicateur": "CONCUSSION",
                         "Unité_GP": "Infractions en 2020",
                         "Unité_Evol": "%"
                     },
