@@ -406,7 +406,7 @@
                 "Box": 1,
                 "Points": false,
                 "MinGeoLevel": "departements",
-                "Description_mesure": " ",
+                "Description_mesure": "Source : Analyse par l’AFA de 111 décisions de justice rendues entre 2014 et 2020 en matière d’atteintes à la probité. ",
                 "Titre_onglet": "Indicateurs",
                 "Pie": false,
                 "Table": false,
@@ -942,7 +942,7 @@
                 "Avec_moyenne": false,
                 "indicateurs": [
                     {
-                        "Code_indicateur": "montant amende physique",
+                        "Code_indicateur": "montant amende morale",
                         "Indicateur_principal": "3",
                         "Titre_indicateur": "Montant moyen des amendes prononcées",
                         "Unité_GP": "€",
@@ -977,7 +977,7 @@
                 "Avec_moyenne": false,
                 "indicateurs": [
                     {
-                        "Code_indicateur": "montant amende morale",
+                        "Code_indicateur": "montant amende physique",
                         "Indicateur_principal": "3",
                         "Titre_indicateur": "Montant moyen des amendes prononcées",
                         "Unité_GP": "€",
