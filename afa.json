@@ -1,7 +1,7 @@
 [
     {
         "Titre_panneau": "Analyse par type de faits",
-        "Volet": "Données issues de l’analyse des décisions de justice",
+        "Volet": "Données issues de l’analyse des décisions de justice (phase de test)",
         "source": "Analyse par l’AFA de 111 décisions de justice rendues entre 2014 et 2020 en matière d’atteintes à la probité",
         "accordéon": "En savoir plus sur la donnée",
         "onglets": [
@@ -72,10 +72,9 @@
     {
         "Lien_page_mesure": "https://www.agence-francaise-anticorruption.gouv.fr/fr",
         "Titre_panneau": "Analyse par secteurs économiques concernés",
-        "Volet": "Données issues de l’analyse des décisions de justice",
+        "Volet": "Données issues de l’analyse des décisions de justice (phase de test)",
         "source": "Analyse par l’AFA de 111 décisions de justice rendues entre 2014 et 2020 en matière d’atteintes à la probité",
         "accordéon": "En savoir plus sur la donnée",
-        "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
                 "Carte": false,
@@ -332,10 +331,9 @@
     {
         "Lien_page_mesure": "https://www.agence-francaise-anticorruption.gouv.fr/fr",
         "Titre_panneau": "Profilage des prévenus",
-        "Volet": "Données issues de l’analyse des décisions de justice",
+        "Volet": "Données issues de l’analyse des décisions de justice (phase de test)",
         "source": "Analyse par l’AFA de 111 décisions de justice rendues entre 2014 et 2020 en matière d’atteintes à la probité",
         "accordéon": "En savoir plus sur la donnée",
-        "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
                 "Carte": false,
@@ -439,10 +437,9 @@
     {
         "Lien_page_mesure": "https://www.agence-francaise-anticorruption.gouv.fr/fr",
         "Titre_panneau": "Répartition des prévenus",
-        "Volet": "Données issues de l’analyse des décisions de justice",
+        "Volet": "Données issues de l’analyse des décisions de justice (phase de test)",
         "source": "Analyse par l’AFA de 111 décisions de justice rendues entre 2014 et 2020 en matière d’atteintes à la probité",
         "accordéon": "En savoir plus sur la donnée",
-        "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
                 "Carte": false,
@@ -525,10 +522,9 @@
     {
         "Lien_page_mesure": "https://www.agence-francaise-anticorruption.gouv.fr/fr",
         "Titre_panneau": "Répartition des prévenus en fonction de leur qualité – Top 7 ",
-        "Volet": "Données issues de l’analyse des décisions de justice",
+        "Volet": "Données issues de l’analyse des décisions de justice (phase de test)",
         "source": "Analyse par l’AFA de 111 décisions de justice rendues entre 2014 et 2020 en matière d’atteintes à la probité",
         "accordéon": "En savoir plus sur la donnée",
-        "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
                 "Carte": false,
@@ -691,10 +687,9 @@
     {
         "Lien_page_mesure": "https://www.agence-francaise-anticorruption.gouv.fr/fr",
         "Titre_panneau": "Procédure",
-        "Volet": "Données issues de l’analyse des décisions de justice",
+        "Volet": "Données issues de l’analyse des décisions de justice (phase de test)",
         "source": "Analyse par l’AFA de 111 décisions de justice rendues entre 2014 et 2020 en matière d’atteintes à la probité",
         "accordéon": "En savoir plus sur la donnée",
-        "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
                 "Carte": false,
@@ -799,10 +794,9 @@
     {
         "Lien_page_mesure": "https://www.agence-francaise-anticorruption.gouv.fr/fr",
         "Titre_panneau": "Traitement judicaire",
-        "Volet": "Données issues de l’analyse des décisions de justice",
+        "Volet": "Données issues de l’analyse des décisions de justice (phase de test)",
         "source": "Analyse par l’AFA de 111 décisions de justice rendues entre 2014 et 2020 en matière d’atteintes à la probité",
         "accordéon": "En savoir plus sur la donnée",
-        "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
                 "Carte": false,
@@ -917,10 +911,9 @@
     {
         "Lien_page_mesure": "https://www.agence-francaise-anticorruption.gouv.fr/fr",
         "Titre_panneau": "Indicateurs du traitement judicaire",
-        "Volet": "Données issues de l’analyse des décisions de justice",
+        "Volet": "Données issues de l’analyse des décisions de justice (phase de test)",
         "source": "Analyse par l’AFA de 111 décisions de justice rendues entre 2014 et 2020 en matière d’atteintes à la probité",
         "accordéon": "En savoir plus sur la donnée",
-        "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
                 "Carte": false,
@@ -993,7 +986,6 @@
         "Volet": "Données issues des enquêtes judiciaires de la gendarmerie et de la police nationales",
         "source": "AFA, d’après des données du service statistique de la sécurité intérieure (SSMSI), base des infractions enregistrées par la police et la gendarmerie (extraite le 10 février 2021). ",
         "accordéon": "En savoir plus sur la donnée",
-        "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
                 "Carte": false,
@@ -1033,7 +1025,6 @@
         "Volet": "Données issues des enquêtes judiciaires de la gendarmerie et de la police nationales",
         "source": "AFA, d’après des données du service statistique de la sécurité intérieure (SSMSI), base des infractions enregistrées par la police et la gendarmerie (extraite le 10 février 2021). ",
         "accordéon": "En savoir plus sur la donnée",
-        "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
                 "Carte": 1,
@@ -1103,11 +1094,10 @@
         "Volet": "Données issues des enquêtes judiciaires de la gendarmerie et de la police nationales",
         "source": "AFA, d’après des données du service statistique de la sécurité intérieure (SSMSI), base des infractions enregistrées par la police et la gendarmerie (extraite le 10 février 2021). ",
         "accordéon": "En savoir plus sur la donnée",
-        "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
                 "Carte": false,
-                "Graph": 2,
+                "Graph": false,
                 "Bar": false,
                 "Box": false,
                 "Points": false,
@@ -1200,7 +1190,6 @@
         "Volet": "Données issues des enquêtes judiciaires de la gendarmerie et de la police nationales",
         "source": "AFA, d’après des données du service statistique de la sécurité intérieure (SSMSI), base des infractions enregistrées par la police et la gendarmerie (extraite le 10 février 2021). ",
         "accordéon": "En savoir plus sur la donnée",
-        "titre_page_mesure": "Vers le site de l'Agence Française Anticorruption",
         "onglets": [
             {
                 "Carte": false,
