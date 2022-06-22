@@ -356,7 +356,7 @@
                 "Avec_moyenne": false,
                 "indicateurs": [
                     {
-                        "Code_indicateur": "MISE_EN_CAUSE_POUR_TRAFIC D'INFLUENCE",
+                        "Code_indicateur": "MISE_EN_CAUSE_POUR_Trafic d'influence",
                         "Nom_indicateur": "TRAFIC D’INFLUENCE",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "TRAFIC D’INFLUENCE",
@@ -364,7 +364,7 @@
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "MISE_EN_CAUSE_POUR_DETOURNEMENT DE FONDS",
+                        "Code_indicateur": "MISE_EN_CAUSE_POUR_Détournement de fonds publics",
                         "Nom_indicateur": "DETOURNEMENT DE FONDS",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "DETOURNEMENT DE FONDS",
@@ -372,7 +372,7 @@
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "MISE_EN_CAUSE_POUR_FAVORITISME",
+                        "Code_indicateur": "MISE_EN_CAUSE_POUR_Favoritisme",
                         "Nom_indicateur": "FAVORITISME",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "FAVORITISME",
@@ -380,7 +380,7 @@
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "MISE_EN_CAUSE_POUR_PRISE ILLEGALE D'INTERETS",
+                        "Code_indicateur": "MISE_EN_CAUSE_POUR_Pris illégale d'intérêts",
                         "Nom_indicateur": "PRISE ILLEGALE D’INTERETS",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "PRISE ILLEGALE D’INTERETS",
@@ -388,7 +388,7 @@
                         "Unité_Evol": "%"
                     },
                     {
-                        "Code_indicateur": "MISE_EN_CAUSE_POUR_CORRUPTION",
+                        "Code_indicateur": "MISE_EN_CAUSE_POUR_Corruption",
                         "Nom_indicateur": "CORRUPTION",
                         "Indicateur_principal": "1",
                         "Titre_indicateur": "CORRUPTION",
